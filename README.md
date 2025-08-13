@@ -23,7 +23,7 @@ It combines data cleaning, Power BI visual storytelling, and Python-based machin
 -<a href="https://www.kaggle.com/datasets/jsonk11/social-media-advertising-dataset">Social-Media Advertising</a>
 
 ## Colab ML Models Link
--<a href="https://github.com/Aya-Osamaa/Social-Media-Advertising-Analysis/blob/main/social.ipynb">Social-Media Advertising</a>
+-<a href="https://github.com/Aya-Osamaa/Social-Media-Advertising-Analysis/blob/main/social.ipynb">Python</a>
 
 
 ## Dashboard
